@@ -1,1 +1,5 @@
 .mvn
+.idea
+target
+HELP.md
+demo.iml
